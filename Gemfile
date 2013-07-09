@@ -5,6 +5,7 @@ gem 'pg', '0.15.1'
 
 group :development, :test do
   gem 'rspec-rails', '2.11.0'
+  gem 'spork', '0.9.2'
 end
 
 # Gems used only for assets and not required
