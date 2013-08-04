@@ -16,6 +16,7 @@ test:
   password: Maks83_Ror
   database: test_db_sa
   pool: 5
+  template: template0
 
 production:
   adapter: postgresql
